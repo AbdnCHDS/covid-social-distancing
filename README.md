@@ -8,7 +8,7 @@ Welcome! This repository is for an ongoing collaborative project by members of t
 
 We are conducting research on the relationship between the [Grampian Social Distancing Score](https://jessbutler.github.io/social_distancing/#social-distancing-score), which was developed by [@JessButler](https://github.com/JessButler) to identify areas that might be at greater risk of transmitting COVID-19 due to likely constraints in the ability to adhere to social distancing guidelines.
 
-![](Social Distancing in Grampian.png)
+![](https://raw.githubusercontent.com/AbdnCHDS/covid-social-distancing/readme/Social%20Distancing%20in%20Grampian.png)
 
 ## Contributing
 
